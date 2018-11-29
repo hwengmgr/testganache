@@ -1,0 +1,25 @@
+{
+  "name": "testganache",
+  "version": "1.0.0",
+  "description": "support for solidity work",
+  "main": "index.js",
+  "dependencies": {
+    "solc": "^0.5.0",
+    "web3": "^1.0.0-beta.36",
+    "ganache-cli": "^6.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hwengmgr/testganache.git"
+  },
+  "author": "Klein",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hwengmgr/testganache/issues"
+  },
+  "homepage": "https://github.com/hwengmgr/testganache#readme"
+}
